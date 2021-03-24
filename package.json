@@ -7,7 +7,7 @@
     "jhipster-blueprint",
     "jhipster-5"
   ],
-  "homepage": "https://github.com/chihosin/generator-jhipster-ant-design",
+  "homepage": "https://github.com/akang/generator-jhipster-ant-design",
   "author": {
     "name": "Chiho Sin",
     "email": "chihosin@icloud.com",
@@ -19,7 +19,7 @@
   "main": "generators/app/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chihosin/generator-jhipster-ant-design.git"
+    "url": "git+https://github.com/akang/generator-jhipster-ant-design.git"
   },
   "dependencies": {
     "chalk": "2.4.1",
